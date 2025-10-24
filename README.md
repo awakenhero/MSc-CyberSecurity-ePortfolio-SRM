@@ -27,7 +27,7 @@ This ePortfolio demonstrates:
 | [Team_Project/](Team_Project) | Group case study: Pampered Pets Risk Identification Report |
 | [Individual_Project/](Individual_Project) | Individual final project: Executive Summary & Risk Evaluation |
 | [Reflection/](Reflection) | Reflective summary (Rolfe’s model – What? So What? Now What?) |
-| [References/](References) | Harvard-style citations and master reference list |
+| [References/](References) | Harvard-style citations, master list, and PDP resources |
 
 ---
 
@@ -62,7 +62,7 @@ This ePortfolio demonstrates:
 
 | File | Description |
 |------|--------------|
-| [Executive Summary.docx](Individual_Project/Executive%20Summary.docx) | Individual project analyzing digitalization, supply chain, and quality risk for *Cathy’s Luxury Brand*. Integrates ISO 27005, NIST CSF, and FAIR frameworks with quantitative probability models. |
+| [Executive Summary.pdf](Individual_Project/Executive%20Summary.pdf) | Individual project analyzing digitalization, supply chain, and quality risk for *Cathy’s Luxury Brand*. Integrates ISO 27005, NIST CSF, and FAIR frameworks with quantitative probability models. |
 
 ---
 
@@ -70,7 +70,7 @@ This ePortfolio demonstrates:
 
 | File | Description |
 |------|--------------|
-| [TeamProject-Risk-Identification-Report.docx](Team_Project/TeamProject-Risk-Identification-Report.docx) | Collaborative report: *Pampered Pets – Risk Identification & Management*. Applied ISO 27005, NIST CSF, and GDPR principles to assess business risks. |
+| [Risk Identification Report.pdf](Team_Project/Risk%20Identification%20Report.pdf) | Collaborative report: *Pampered Pets – Risk Identification & Management*. Applied ISO 27005, NIST CSF, and GDPR principles to assess business risks. |
 | [Meeting_Notes.md](Team_Project/Meeting_Notes.md) | Summary of team collaboration, meeting logs, and role contributions. |
 
 ---
@@ -79,7 +79,7 @@ This ePortfolio demonstrates:
 
 | File | Description |
 |------|--------------|
-| [Reflective_Summary_SRM.docx](Reflection/Reflective_Summary_SRM.docx) | 1,000-word self-reflection structured using Rolfe et al. (2001) – *What? So What? Now What?* Explores teamwork, emotional learning, and ethical understanding within cybersecurity practice. |
+| [Reflective_Summary_SRM.pdf](Reflection/Reflective_Summary_SRM.pdf) | 1,000-word self-reflection structured using Rolfe et al. (2001) – *What? So What? Now What?* Explores teamwork, emotional learning, and ethical understanding within cybersecurity practice. |
 |  | This reflection highlights personal growth in analytical risk assessment, governance awareness, and emotional resilience developed through the Security & Risk Management module. |
 
 ---
@@ -96,37 +96,23 @@ This ePortfolio demonstrates:
 
 All visual artefacts and frameworks are located under [Diagrams/](Diagrams).  
 Examples include:  
-- STRIDE_Threat_Diagram.png – Threat modelling workflow  
-- GDPR-Workflow.png – Data compliance mapping  
-- QRM-Frameworks.png – Quantitative risk framework  
-- DR-Life-Cycle.png – Disaster Recovery process flow  
+- `STRIDE_Threat_Diagram.png` – Threat modelling workflow  
+- `GDPR-Workflow.png` – Data compliance mapping  
+- `QRM-Frameworks.png` – Quantitative risk framework  
+- `DR-Life-Cycle.png` – Disaster Recovery process flow  
 
 ---
 
 ## References
 
-Full reference library:  
-[Master Reference List](References/Master_Reference_List.md)  
+| File | Description |
+|------|--------------|
+| [Master_Reference_List.md](References/Master_Reference_List.md) | Comprehensive Harvard-style reference list used across all artefacts |
+| [PDP_Supplementary_Resources.md](References/PDP_Supplementary_Resources.md) | Non-academic professional resources for PDP (Advisera, BSI, ISO27k Forum, etc.) |
 
 Each artefact also includes its own dedicated reference file within the [References/](References) directory.  
-All citations follow the Harvard Referencing Style.
+All citations follow the Harvard Referencing Style (University of Essex Online).
 
 ---
 
-## Version Control
-
-This ePortfolio is maintained using Git and GitHub, ensuring:
-
-- Transparent version tracking and iterative updates  
-- Academic audit readiness and traceability of artefacts  
-- Compliance with professional documentation standards  
-
----
-
-**Last Updated:** 21 October 2025  
-**Author:** Musthaq Mohamed  
-**University of Essex Online – MSc Cyber Security**
-
----
-
-*This ePortfolio reflects authentic academic work, applied research, and professional reflection developed during the Security & Risk Management module. All materials adhere to University of Essex academic integrity and cybersecurity ethics standards.*
+*All work is original and aligns with University of Essex academic integrity policies.*
